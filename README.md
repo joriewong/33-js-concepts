@@ -106,7 +106,7 @@
 
 ### 视频
 
-- [ ] :tv: [javascript 六种数据类型 —— 慕课网](https://www.imooc.com/video/5674)
+- [x] :tv: [javascript 六种数据类型 —— 慕课网](https://www.imooc.com/video/5674)
 - [ ] :tv: [javascript 视频教程(数据类型) —— PHP 中文网](http://www.php.cn/code/5808.html)
 - [ ] :tv: [JavaScript Reference vs Primitive Types — Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
 - [ ] :tv: [JavaScript Primitive Types — Simon Sez IT](https://www.youtube.com/watch?v=HsbWQsSCE5Y)
