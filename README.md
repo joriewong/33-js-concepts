@@ -159,7 +159,7 @@
 
 ### 视频
 
-- [ ] :tv: [javascript 隐式转换 —— 慕课网](https://www.imooc.com/video/5675)
+- [x] :tv: [javascript 隐式转换 —— 慕课网](https://www.imooc.com/video/5675)
 - [ ] :tv: [Javascript 基础加强-类型转换 —— 黑马程序员](http://www.le.com/ptv/vplay/27767009.html)
 
 **[:arrow_up: 返回目录](#目录)**
