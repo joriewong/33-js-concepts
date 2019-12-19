@@ -152,7 +152,7 @@
 - [ ] :book: [JavaScript 显式类型转换与隐式类型转换 —— CSDN](https://blog.csdn.net/yangjvn/article/details/48284163)
 - [ ] :book: [你不知道的 JavaScript（中卷）强制类型转换 —— 简书](https://www.jianshu.com/p/777a89b4ed9a)
 - [ ] :book: [你懂 JavaScript 嗎？#8 強制轉型 —— cythilya](https://ithelp.ithome.com.tw/articles/10201512)
-- [ ] :book: [动态类型语言和鸭子类型 —— 曾探](http://book.51cto.com/art/201505/475153.htm)
+- [x] :book: ~[动态类型语言和鸭子类型 —— 曾探](http://book.51cto.com/art/201505/475153.htm)~
 - [ ] :book: [Nominal & Structural Typing —— flow](https://flow.org/en/docs/lang/nominal-structural/)
 - [ ] :book: [What exactly is Type Coercion in Javascript? —— stackoverflow](https://stackoverflow.com/questions/19915688/what-exactly-is-type-coercion-in-javascript)
 - [ ] :book: [You Don't Know JS: Types & Grammar —— github](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/ch4.md)
